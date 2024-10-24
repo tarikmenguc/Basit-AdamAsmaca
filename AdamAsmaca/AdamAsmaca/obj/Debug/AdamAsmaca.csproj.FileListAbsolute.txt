@@ -1,0 +1,7 @@
+C:\Users\M.Tarık MENGÜÇ\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.exe.config
+C:\Users\M.Tarık MENGÜÇ\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.exe
+C:\Users\M.Tarık MENGÜÇ\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.pdb
+C:\Users\M.Tarık MENGÜÇ\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.csproj.AssemblyReference.cache
+C:\Users\M.Tarık MENGÜÇ\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.csproj.CoreCompileInputs.cache
+C:\Users\M.Tarık MENGÜÇ\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.exe
+C:\Users\M.Tarık MENGÜÇ\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.pdb
